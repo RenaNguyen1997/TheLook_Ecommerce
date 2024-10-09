@@ -33,29 +33,30 @@ To run this project, you will need:
 
 * Access to the Power BI Desktop for visual reporting. 
 
-* An account to create project on Google Cloud  
+* An account to create the project on Google Cloud  
 
-* Microsoft Excel to save the data or any offline saving data format that well cooperate with Power BI
+* Microsoft Excel to save the data or any offline saving data format that cooperates well with Power BI
+
 
 ## Project Structure 
 
 * Data source:  [TheLook-E-commerce Bigquerry](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce&page=dataset&authuser=1&project=tough-gearing-422905-s2&supportedpurview=project&ws=!1m5!1m4!4m3!1sbigquery-public-data!2sthelook_ecommerce!3sdistribution_centers)  
 
-* **Google Clouds account:** To write and run the code.  
+* **Google Clouds account:** To write and run the code. The "Code" file in this respiratory can be directly used on the Google Clouds project for obtaining relevant data 
 
-* **MS Excel:** Obtained data will be save under .xls format and upload on Power BI for visualizations 
+* **MS Excel:** Obtained data will be saved under .xls format and uploaded on Power BI for visualizations. The "data_result" Excel file in this respiratory is an example of obtained data that will be used for visualization 
 
-* **Reports:** Final reports in PDF or Power BI format.
+* **Reports:** Final reports in PDF or Power BI format. Please find the relevant report in the file "PowerBI_TheLookEcommerce.pbix" accordingly
 
 ## How to Run the Project 
 
-*For obtain raw data before visualization* 
+*To obtain raw data before visualization* 
 
 1. Create a personal project on Google Cloud  
 
 2. Click on the link to access the data source, then choose the created project to store any coding related to this project  
 
-3. Look for the plus sign on the right side of the table and click on the sign to open blank page for start writing SQL  
+3. Look for the plus sign on the right side of the table and click on the sign to open a blank page to start writing SQL  
 
 4. Copy the code from a chunk each time to run the code 
 
@@ -67,13 +68,13 @@ Download the Power BI file in this link and use Desktop Power BI for further exp
 
 ## Key Analysis and Visualizations 
 
-* **Executive summary:** Summary the key bussiness performance  
+* **Executive summary:** Summary the key business performance  
 
 * **Customer and total orders:** Relationship between customers and total order by time (Year, month, day) 
 
 * **Revenue:** Total revenue and revenue growth after each year 
 
-* **Cohort Analysis:** Identify churning patterns and summary the total churning rate after years 
+* **Cohort Analysis:** Identify churning patterns and summarize the total churning rate after years 
 
 ## Insights and Findings 
 
