@@ -12,7 +12,9 @@ This project showcases key data analysis skills and competencies used to extract
 
 * SQL: For querying databases, manipulating datasets, and performing calculations. 
 
-* Statistical Analysis: Applying statistical techniques cohort analysis to study churning rate. 
+* Statistical Analysis: Applying statistical techniques cohort analysis to study churning rate.
+
+*To view a more interactive and thorough step-by-step explanation, please visit my website via the link: [TheLook e-commerce](https://nrena1997.wixsite.com/analyst-porfolio/post/effective-skills-to-include-in-data-analyst-portfolio)*
 
 ## Table of Contents 
 
