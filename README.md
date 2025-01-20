@@ -40,7 +40,7 @@ To run this project, you will need:
 
 ## Project Structure 
 
-* Data source:  [TheLook-E-commerce Bigquerry](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce&page=dataset&authuser=1&project=tough-gearing-422905-s2&supportedpurview=project&ws=!1m5!1m4!4m3!1sbigquery-public-data!2sthelook_ecommerce!3sdistribution_centers)  
+* **Data source**:  [TheLook-E-commerce Bigquerry](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce&page=dataset&authuser=1&project=tough-gearing-422905-s2&supportedpurview=project&ws=!1m5!1m4!4m3!1sbigquery-public-data!2sthelook_ecommerce!3sdistribution_centers)  
 
 * **Google Clouds account:** To write and run the code. The "Code" file in this respiratory can be directly used on the Google Clouds project for obtaining relevant data 
 
